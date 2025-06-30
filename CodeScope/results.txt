@@ -1,0 +1,318 @@
+# Query: class
+===================================
+
+File: src\Files\Java\java5.java
+Type: COMMENT
+Line: 1
+Snippet:
+No class here only comment
+
+File: src\Files\Python\py5.py
+Type: CLASS
+Line: 1
+Snippet:
+class Animal
+
+File: src\Files\Python\py1.py
+Type: CLASS
+Line: 2
+Snippet:
+class Py1
+
+File: src\Files\Cpp\cpp2.cpp
+Type: CLASS
+Line: 1
+Snippet:
+class Test2
+
+File: src\Files\Java\java1.java
+Type: CLASS
+Line: 4
+Snippet:
+public class java1 
+
+File: src\Files\Java\java2.java
+Type: CLASS
+Line: 4
+Snippet:
+public class java2
+
+File: src\Files\Java\java3.java
+Type: CLASS
+Line: 3
+Snippet:
+public class java3 
+
+File: src\Files\Java\java4.java
+Type: CLASS
+Line: 4
+Snippet:
+public class java4 
+
+Graph Node Count: 8
+
+# Query: add
+===================================
+
+File: src\Files\Python\py3.py
+Type: FUNCTION
+Parameters: a,b
+Line: 1
+Snippet:
+def add(a,b)
+
+File: src\Files\C\c2.c
+Type: FUNCTION
+Parameters: int a,int b
+Line: 1
+Snippet:
+int add(int a,int b)
+
+File: src\Files\Java\java4.java
+Type: FUNCTION
+Parameters: int a,int b
+Line: 5
+Snippet:
+private int add(int a,int b)
+
+Graph Node Count: 3
+
+# Query: #
+===================================
+
+File: src\Files\Cpp\cpp1.cpp
+Type: KEYWORD
+Line: 1
+Snippet:
+#include <iostream>
+
+File: src\Files\Cpp\cpp4.cpp
+Type: KEYWORD
+Line: 1
+Snippet:
+#include <vector>
+
+File: src\Files\C\c1.c
+Type: KEYWORD
+Line: 1
+Snippet:
+#include<stdio.h>
+
+File: src\Files\C\c4.c
+Type: KEYWORD
+Line: 1
+Snippet:
+#include<stdio.h>
+
+File: src\Files\Python\py2.py
+Type: COMMENT
+Line: 1
+Snippet:
+Comment
+
+File: src\Files\Python\py4.py
+Type: COMMENT
+Line: 1
+Snippet:
+Only comment line
+
+File: src\Files\Python\py1.py
+Type: COMMENT
+Line: 1
+Snippet:
+Py1
+
+Graph Node Count: 7
+
+# Query: include
+===================================
+
+File: src\Files\Cpp\cpp1.cpp
+Type: KEYWORD
+Line: 1
+Snippet:
+#include <iostream>
+
+File: src\Files\Cpp\cpp4.cpp
+Type: KEYWORD
+Line: 1
+Snippet:
+#include <vector>
+
+File: src\Files\C\c1.c
+Type: KEYWORD
+Line: 1
+Snippet:
+#include<stdio.h>
+
+File: src\Files\C\c4.c
+Type: KEYWORD
+Line: 1
+Snippet:
+#include<stdio.h>
+
+Graph Node Count: 4
+
+# Query: return
+===================================
+
+File: src\Files\Python\py2.py
+Type: KEYWORD
+Line: 3
+Snippet:
+return 'foo'
+
+File: src\Files\C\c2.c
+Type: KEYWORD
+Line: 3
+Snippet:
+return a+b;
+
+File: src\Files\Java\java4.java
+Type: KEYWORD
+Line: 7
+Snippet:
+return a+b;
+
+File: src\Files\Python\py3.py
+Type: KEYWORD
+Line: 2
+Snippet:
+return a+b
+
+File: src\Files\Cpp\cpp5.cpp
+Type: KEYWORD
+Line: 4
+Snippet:
+return a-b;
+
+File: src\Files\C\c1.c
+Type: COMMENT
+Line: 5
+Snippet:
+returns null;
+
+Graph Node Count: 6
+
+# Query: main
+===================================
+
+File: src\Files\C\c4.c
+Type: FUNCTION
+Parameters: 
+Line: 2
+Snippet:
+int main()
+
+File: src\Files\Java\java3.java
+Type: FUNCTION
+Parameters: String[] args
+Line: 4
+Snippet:
+public static void main(String[] args)
+
+Graph Node Count: 2
+
+# Query: //
+===================================
+
+File: src\Files\C\c1.c
+Type: COMMENT
+Line: 2
+Snippet:
+C1 comment
+
+File: src\Files\Java\java1.java
+Type: COMMENT
+Line: 3
+Snippet:
+Java1
+
+File: src\Files\Java\java5.java
+Type: COMMENT
+Line: 1
+Snippet:
+No class here only comment
+
+File: src\Files\C\c3.c
+Type: COMMENT
+Line: 1
+Snippet:
+Only comment
+
+File: src\Files\Cpp\cpp3.cpp
+Type: COMMENT
+Line: 1
+Snippet:
+Only comment
+
+File: src\Files\Cpp\cpp1.cpp
+Type: COMMENT
+Line: 3
+Snippet:
+cpp1 comment
+
+File: src\Files\Java\java4.java
+Type: COMMENT
+Line: 3
+Snippet:
+func4
+
+File: src\Files\C\c1.c
+Type: COMMENT
+Line: 5
+Snippet:
+returns null;
+
+Graph Node Count: 7
+
+# Query: public
+===================================
+
+File: src\Files\Java\java1.java
+Type: CLASS
+Line: 4
+Snippet:
+public class java1 
+
+File: src\Files\Java\java2.java
+Type: CLASS
+Line: 4
+Snippet:
+public class java2
+
+File: src\Files\Java\java3.java
+Type: CLASS
+Line: 3
+Snippet:
+public class java3 
+
+File: src\Files\Java\java4.java
+Type: CLASS
+Line: 4
+Snippet:
+public class java4 
+
+File: src\Files\Java\java3.java
+Type: FUNCTION
+Parameters: String[] args
+Line: 4
+Snippet:
+public static void main(String[] args)
+
+File: src\Files\Java\java1.java
+Type: FUNCTION
+Parameters: 
+Line: 5
+Snippet:
+public void func1()
+
+File: src\Files\Cpp\cpp2.cpp
+Type: FUNCTION
+Parameters: 
+Line: 3
+Snippet:
+public: void run()
+
+Graph Node Count: 5
+
